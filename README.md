@@ -13,4 +13,4 @@ This allowed me to learn a lot about machine learning models and what goes into 
 
 <img width="1267" height="346" alt="image" src="https://github.com/user-attachments/assets/62ff68f9-66c3-44fe-bb36-09ddc154abfe" />
 
-View more information here: <a target="_blank">https://miguelchaveznava.github.io/challenge.html<a>
+<a target="_blank" href="https://miguelchaveznava.github.io/challenge.html">View more information here<a>
