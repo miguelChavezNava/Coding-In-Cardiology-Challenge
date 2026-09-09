@@ -11,6 +11,6 @@ To see this project, run hw3_challenge.py to see the performance of this main mo
 
 This allowed me to learn a lot about machine learning models and what goes into their creation. I learned about the design process of feature sets, how that is done, and how different parameters can be selected through different processes, in order to create a full model that is able to achieve good scores for this challenge.
 
-https://miguelchaveznava.github.io/images/cardioCode.png
+<img width="1267" height="346" alt="image" src="https://github.com/user-attachments/assets/62ff68f9-66c3-44fe-bb36-09ddc154abfe" />
 
 View more information here: https://miguelchaveznava.github.io/challenge.html
